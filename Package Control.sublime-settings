@@ -6,8 +6,10 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"JSONLint",
 		"LESS",
 		"Package Control",
-		"SideBarEnhancements"
+		"SideBarEnhancements",
+		"TypeScript"
 	]
 }
